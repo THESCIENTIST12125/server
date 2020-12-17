@@ -1,0 +1,87 @@
+h1{
+    text-align: center;
+    color:black;
+
+}
+h2{
+    text-align: center;
+    color: grey;
+
+}
+
+body{
+    border: solid;
+    background-color:beige;
+}
+
+#hi{
+    color:red 
+
+}
+
+#mon{
+   
+    color:blue
+    
+    
+}
+
+#link{
+    display: flex;
+
+    justify-content: center;
+}
+
+img{
+    border-width: 2;
+    
+    border-radius: 100px;
+   
+
+    border-style: solid;
+
+  
+}
+
+
+
+#happy{
+    color: darkgoldenrod
+}
+
+#sad{
+    color:yellowgreen
+}
+
+#uni{
+    color:pink
+}
+
+li {
+    display: inline;
+    padding: 50;
+
+   
+}
+
+ul {
+    background-color: grey;
+
+}
+a {
+    color:blue
+}
+
+
+#curs a:hover{
+    color:red
+   
+    
+}
+a:hover{
+ cursor: grab;
+   
+    
+}
+
+
